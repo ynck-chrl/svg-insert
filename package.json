@@ -1,6 +1,6 @@
 {
   "name": "@nativelayer.dev/svg-insert",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Drop an SVG into your HTML like an image. Get currentColor, CSS variables, and your full cascade for free.",
   "type": "module",
   "main": "index.js",
