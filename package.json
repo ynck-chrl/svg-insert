@@ -1,0 +1,45 @@
+{
+  "name": "@nativelayer.dev/svg-insert",
+  "version": "0.0.1",
+  "description": "Drop an SVG into your HTML like an image. Get currentColor, CSS variables, and your full cascade for free.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE",
+    "svg-insert-logo.jpg"
+  ],
+  "keywords": [
+    "web-components",
+    "custom-elements",
+    "svg",
+    "inline-svg",
+    "icon",
+    "css-variables",
+    "currentColor",
+    "DOM",
+    "zero-dependency"
+  ],
+  "license": "MIT",
+  "author": "ynck-chrl",
+  "homepage": "https://nativelayer.dev/docs/svg-insert",
+  "bugs": {
+    "url": "https://github.com/ynck-chrl/svg-insert/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynck-chrl/svg-insert"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
