@@ -8,12 +8,15 @@
   "exports": {
     ".": {
       "import": "./index.js",
+      "require": "./index.cjs",
       "types": "./index.d.ts"
     }
   },
   "files": [
     "index.js",
     "index.d.ts",
+    "index.cjs",
+    "index.d.cts",
     "README.md",
     "LICENSE",
     "svg-insert-logo.jpg"
